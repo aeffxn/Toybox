@@ -17,7 +17,7 @@ A desktop "fidget toy" collection built entirely in Python with Tkinter — a ha
 - [Installation](#-installation)
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
-- [The Glass Theme](#-the-glass-theme)
+- [The Theme](#-the-theme)
 - [Adding a New Toy](#-adding-a-new-toy)
 
 ---
